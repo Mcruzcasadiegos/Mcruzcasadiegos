@@ -3,7 +3,7 @@
 <div align="center"> 
   <!-- Puedes personalizar el texto animado en la sección "lines=" de la URL de abajo --> 
   <!-- Para un ampersand (&), usa &amp; (ej., Analytics+%26+Optimization) --> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+Business+Intelligence+Business+Analyst+Data+Scientist;Turning+Data+into+Actionable+Insights;Finance+Data+Analytics;Business+Analysis+Consultant" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+Business+Intelligence+Business+Analyst+Data+Scientist;Turning+Data+into+Actionable+Insights;Finance+Data+Analysis;Business+Analysis+Consultant" alt="Typing SVG" /> 
 </div>
 
 
