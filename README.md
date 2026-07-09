@@ -28,8 +28,8 @@ I possess strong skills in assertive communication, results orientation, critica
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Programming with Python (Pandas, NumPy, Scikit-learn, PySpark)]
+- [Advanced machine learning techniques in Scikit-learn.]
+- [Programming with Python (Pandas, NumPy, Scikit-learn, PySpark)]
 
 ## 🛠️ Technical Skillset
 
@@ -41,7 +41,7 @@ I possess strong skills in assertive communication, results orientation, critica
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Google-Sheets-Expert-217346?style=flat&logo=Google Sheets&logoColor=white" alt="Google Sheets Skill Badge">
+  <img src="https://img.shields.io/badge/Google%20Sheets-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Google Sheets Skill Badge">
   <img src="https://img.shields.io/badge/Python-Intermediate-E97627?style=flat&logo=Python&logoColor=white" alt="Python Skill Badge">
 </p>
 
